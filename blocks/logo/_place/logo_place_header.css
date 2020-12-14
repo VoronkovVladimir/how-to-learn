@@ -1,12 +1,11 @@
 .logo_place_header {
-  width: 183px;
   height: 32px;
   position: absolute;
   top: 30px;
   left: 64px;
   z-index: 4;
+  transition: .5s;
 }
 .logo_place_header:hover {
   opacity: .5;
-  transition: .3s;
 }

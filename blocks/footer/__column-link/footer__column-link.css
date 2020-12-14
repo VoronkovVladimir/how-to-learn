@@ -4,8 +4,8 @@
   color: white;
   text-decoration: none;
   margin: 0;
+  transition: .5s;
 }
 .footer__column-link:hover {
   opacity: .5;
-  transition: .3s;
 }
